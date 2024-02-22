@@ -1,11 +1,14 @@
 body {
     font-family: Roboto;
     font-size: 20px ;
+
 }
 h1{
     font-size: 60px;
-    position: absolute;
-    font-family: Roboto; 
+    position: relative;
+    font-family: Roboto ; 
+    margin-top: 1em;
+    font-weight: 100;
 }
 
 header {
@@ -52,6 +55,8 @@ header {
 
 body{
     background-color: #99CC33;
+    position: relative;
+    margin: 0;
 
 }
 
@@ -76,3 +81,17 @@ body{
   opacity: 1;
 }
 
+#myp {
+    margin-bottom: 50%;
+    display: flex;
+    margin-left: 65%;
+    
+
+}
+
+#div1 {
+    
+    background-image: url('https://umanizales.edu.co/sites/default/files/styles/section_base_slider_desktop/public/uploads/2021/08/Umanizales.webp');
+    background-size: cover; /* Adjust the size as needed */
+    background-position: center; /* Adjust the position as needed */
+  }

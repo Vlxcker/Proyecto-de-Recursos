@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "git": "^0.1.5",
+    "mime": "^4.0.1",
     "prompt-sync": "^4.2.0"
   }
 }
